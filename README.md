@@ -1,2 +1,3 @@
 # LIS-161-CV
-A Static pge of my CD
+A Static Page for my CV
+
