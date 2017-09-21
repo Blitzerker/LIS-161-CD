@@ -1,3 +1,4 @@
-# LIS-161-CV
-A Static Page for my CV
+# LIS-161
+
+This static website is a personal blog
 
