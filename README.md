@@ -1,2 +1,4 @@
-# LIS-161-CV
-A Static pge of my CD
+# LIS-161
+
+This static website is a personal blog
+
